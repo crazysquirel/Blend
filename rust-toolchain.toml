@@ -1,0 +1,2 @@
+[toolchain]
+channel = "nightly" # Requires nightly for `impl Trait` return types
